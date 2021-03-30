@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElodieMillan
 - 👀 I’m interested in physics simulations and programming
-- 🌱 I’m currently learning python
+- 🌱 I'm currently progressing in Python and Cython. I'm learning C programming.
 
 <!---
 ElodieMillan/ElodieMillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
