@@ -3,6 +3,7 @@
 - 👩🏻‍🔬 I’m interested in soft matter physics and statistical physics.
 - </> I'm coding mostly in `Python` and `Cython`, and I can use `C` and `Matlab`.
 
+
 I am interested in the field of soft matter physics and statistical physics, from microscopic to macroscopic
 scales. I combine experimental physics with numerical modeling to maintain a versatile approach to the
 fundamental questions in my research in physics.
