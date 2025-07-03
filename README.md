@@ -1,4 +1,4 @@
-<a href="url"><img src="https://octodex.github.com/images/labtocat.png" align="left" width="105" ></a>
+<a href="url"><img src="https://octodex.github.com/images/labtocat.png" align="left" width="100" ></a>
 - 👋 Hi, I’m @ElodieMillan
 - 👩🏻‍🔬 I’m interested in soft matter physics and statistical physics.
 - </> I'm coding mostly in `Python` and `Cython`, and I can use `C` and `Matlab`.
@@ -7,10 +7,12 @@
 I am interested in the field of soft matter physics and statistical physics, from microscopic to macroscopic
 scales. I combine experimental physics with numerical modeling to maintain a versatile approach to the
 fundamental questions in my research in physics.
+
 My research focuses on particle transport and diffusion at small scales in complex microfluidic environments.
 I study the motion of confined particles near rigid boundaries, where hydrodynamic interactions significantly
 affect mobility and diffusion behavior [1]. To investigate these effects, I use advanced Langevin dynamics simu-
 lations [2, 3].
+
 I also study the formation and drying dynamics of water microdroplets in polydimethylsiloxane (PDMS), a
 hydrophobic elastomer, when in contact with water. The addition of sodium chloride or glycerol allows for
 control over the droplet concentration [Pingulkar et al., Soft Matter, 2024]. These phenomena are investiga-
