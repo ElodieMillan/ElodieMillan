@@ -31,7 +31,7 @@ Know more about me on [my website](https://elodyymillan.wixsite.com/elodiemillan
 
 Thank you for your visit and to concedering my work ✨ !
 
-<a href="url"><img src="https://octodex.github.com/images/labtocat.png" align="left" width="100" ></a>
+<a href="url"><img src="https://octodex.github.com/images/labtocat.png" align="left" width="100" ></a> \
 
 >>> 🔮"Cython’s C code is fairly obfusticated but once you can see The Woman in Red you can call yourself a Cython Ninja."🔮
 >>> citation from [here](https://notes-on-cython.readthedocs.io/en/latest/misc.html)
