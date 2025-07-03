@@ -1,4 +1,4 @@
-<a href="url"><img src="https://octodex.github.com/images/labtocat.png" align="left" width="110" ></a>
+<a href="url"><img src="https://octodex.github.com/images/labtocat.png" align="left" width="105" ></a>
 - 👋 Hi, I’m @ElodieMillan
 - 👩🏻‍🔬 I’m interested in soft matter physics and statistical physics.
 - </> I'm coding mostly in `Python` and `Cython`, and I can use `C` and `Matlab`.
