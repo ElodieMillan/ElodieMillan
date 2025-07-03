@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElodieMillan
-- 👀 I’m interested in soft matter physics and statistical physics.
-- 🌱 I'm coding mostly in Python and Cython, and I can use C and Mathlab.
+- 👩🏻‍🔬 I’m interested in soft matter physics and statistical physics.
+- 🤓 I'm coding mostly in Python and Cython, and I can use C and Mathlab.
 
 Know more about me on [my website](https://elodyymillan.wixsite.com/elodiemillan/fr).
 
