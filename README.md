@@ -30,7 +30,7 @@ confined Brownian-yet-non-Gaussian motion. »_ In : Eur. Phys. J. E 46 (4 (2023)
 Bordeaux, (2024), 🔗https://theses.hal.science/tel-04583730.
 
 ### ➕More:
-Know more about me on [my website](https://elodyymillan.wixsite.com/elodiemillan/fr).
+Know more about me on [my website](https://elodiemillan.wixsite.com/softmatter/fr).
 
 
 Thank you for your visit and to concedering my work ✨ !
